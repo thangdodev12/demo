@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { Sample } from \"../screens\";\nexport default Sample;","map":{"version":3,"sources":["/Users/Thang.DoX/Desktop/nextjs-ts-antd-saga/src/pages/sample.ts"],"names":["Sample"],"mappings":"AAAA,SAASA,MAAT;AAEA,eAAeA,MAAf","sourcesContent":["import { Sample } from \"@screens\";\n\nexport default Sample;\n"]},"metadata":{},"sourceType":"module"}
